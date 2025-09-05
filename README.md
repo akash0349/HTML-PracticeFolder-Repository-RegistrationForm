@@ -1,4 +1,4 @@
-Welcome to HTML_Practice_Folder_Repository 🎉
+Welcome to HTML-PracticeFolder-Repository-RegistrationForm 🎉
 This repository contains HTML practice projects, including a College Registration Form inside the folder HTML_Practice_Folder.
 This project is beginner-friendly and a great way to learn HTML forms, input fields, and basic web page structure.
 
@@ -10,19 +10,7 @@ This project is beginner-friendly and a great way to learn HTML forms, input fie
 🌍 Works on all modern browsers
 
 For clone this repository
-git clone https://github.com/your-username/HTML_Practice_Folder_Repository.git
-
-For go inside the folder
-cd HTML_Practice_Folder_Repository/HTML_Practice_Folder
-
-🖥 How to Run in Visual Studio Code:-
-Open Visual Studio Code
-Click File → Open Folder and select HTML_Practice_Folder
-Open index.html file
-
-Run it by:
-Right-click → Open with Live Server (recommended)
-OR open index.html directly in your browser
+git clone https://github.com/akash0349/HTML-PracticeFolder-Repository-RegistrationForm.git
 
 
 🎯 Project Purpose:-
